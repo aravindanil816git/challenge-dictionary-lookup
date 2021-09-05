@@ -1,0 +1,18 @@
+{
+  "name": "challenge-dictionary-loookup",
+  "version": "1.0.0",
+  "description": "JS challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "aravindanil816git",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
